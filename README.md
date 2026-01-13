@@ -3,7 +3,7 @@
 🚀 Building scalable apps with Next.js, Node, and Prisma. Founder of HamidLabs. Clean architecture. Fast delivery. Open to remote work & collabs.
 
 ## 📚 Portfolio
-Check out my portfolio here [Portfolio](https://hamidlabs.vercel.app/).
+Check out my portfolio here [Portfolio](https://hamidslab.com).
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
