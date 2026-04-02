@@ -90,6 +90,6 @@ I enjoy working on backend services, distributed systems, and infrastructure whe
 
 ## Contact
 
-GitHub: [https://github.com/hamidlabs](https://github.com/hamidlabs)
-LinkedIn: [https://www.linkedin.com/in/hamidlabs](https://www.linkedin.com/in/hamidlabs)
+GitHub: [https://github.com/hamidlabs](https://github.com/hamidlabs) </br>
+LinkedIn: [https://www.linkedin.com/in/hamidlabs](https://www.linkedin.com/in/hamidlabs) </br>
 X: [https://x.com/hamidlabs](https://x.com/hamidlabs)
