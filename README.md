@@ -1,29 +1,95 @@
-### 👋 About
+# Hamid
 
-I’m a full-stack software engineer focused on building and operating production-grade web systems. I work across frontend, backend, databases, and cloud infrastructure, with an emphasis on clean architecture, scalability, and long-term maintainability.
+### Systems-Oriented Software Engineer
 
-I’ve shipped real products under real constraints—from early MVPs with loose requirements to multi-tenant SaaS platforms with active users and revenue. I’m comfortable taking ownership end-to-end: turning high-level goals into working software, making product trade-offs, and ensuring systems run reliably in production.
+I build software by understanding how it actually executes — CPU time, memory movement, network latency, and failure behavior. My focus is not just application logic, but the full execution path from request entry to data storage and back.
 
-I primarily work full-time on product teams and enjoy environments that value autonomy, clear communication, and shipping meaningful software.
-
----
-
-## 🌐 Portfolio
-
-Projects, live products, and case studies:
-👉 [https://hamidslab.com](https://hamidslab.com)
+I enjoy working on backend services, distributed systems, and infrastructure where performance, reliability, and observability matter. I prefer measuring real behavior over relying on abstractions.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Focus Areas
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat\&logo=javascript)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat)
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat\&logo=react)
-![](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat)
-![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat\&logo=node.js)
-![](https://img.shields.io/badge/Backend-Express-informational?style=flat)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat)
-![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat\&logo=docker)
-![](https://img.shields.io/badge/Workflow-CI/CD-informational?style=flat)
+* Runtime performance and latency reduction
+* Memory usage and allocation patterns
+* Caching layers and data locality
+* Distributed system failure modes
+* Concurrency and workload distribution
+* Infrastructure-aware application design
+* Observability and production debugging
+* Throughput vs resource utilization trade-offs
+
+---
+
+## Systems & Engineering Stack
+
+**Runtime**
+
+* Node.js internals, event loop behavior
+* Async I/O and concurrency tuning
+* Worker threads and clustering
+* V8 profiling and heap analysis
+
+**Networking**
+
+* HTTP connection lifecycle
+* Reverse proxy and load balancing
+* Service-to-service communication
+* Backpressure and retry strategies
+
+**Data**
+
+* PostgreSQL query planning and indexing
+* Redis caching and eviction policies
+* Connection pooling and latency optimization
+* Consistency vs performance trade-offs
+
+**Infrastructure**
+
+* Docker containerization
+* Linux-based deployments
+* Process lifecycle management
+* Resource constraints and scaling
+
+**Observability**
+
+* Structured logging
+* Latency measurement
+* Memory leak detection
+* Production debugging
+
+---
+
+## What I Build
+
+* Distributed system simulators
+* Backend services under real load
+* Multi-service architectures
+* Infrastructure-aware SaaS systems
+* Performance-sensitive APIs
+* Failure testing environments
+
+---
+
+## Portfolio
+
+[https://hamidslab.com](https://hamidslab.com)
+
+---
+
+## Current Interests
+
+* Distributed systems behavior under load
+* CPU cache awareness in application design
+* Message queues and async pipelines
+* Service mesh and traffic routing
+* Failure injection and resilience testing
+* Systems for AI and surveillance infrastructure
+
+---
+
+## Contact
+
+GitHub: [https://github.com/hamidlabs](https://github.com/hamidlabs)
+LinkedIn: [https://www.linkedin.com/in/hamidlabs](https://www.linkedin.com/in/hamidlabs)
+X: [https://x.com/hamidlabs](https://x.com/hamidlabs)
