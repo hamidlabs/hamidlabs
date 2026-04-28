@@ -1,16 +1,23 @@
 # Hamid
 
-### Systems-Oriented Software Engineer
+### Systems-Oriented Software Engineer (Go-first)
 
-I build software by understanding how it actually executes — CPU time, memory movement, network latency, and failure behavior. My focus is not just application logic, but the full execution path from request entry to data storage and back.
+I build systems by understanding how they actually execute — CPU scheduling, memory allocation, network flow, and failure behavior.
 
-I enjoy working on backend services, distributed systems, and infrastructure where performance, reliability, and observability matter. I prefer measuring real behavior over relying on abstractions.
+My focus is not just application logic, but the full execution path:
+
+```text
+Request → Kernel → Runtime → Application → Data → Response
+```
+
+I work primarily with Go for backend systems, designing services that remain stable under real load, not just ideal conditions.
+
 
 
 ## Focus Areas
 
 * Runtime performance and latency reduction
-* Memory usage and allocation patterns
+* Memory usage, allocation patterns, and GC behavior
 * Caching layers and data locality
 * Distributed system failure modes
 * Concurrency and workload distribution
@@ -19,67 +26,89 @@ I enjoy working on backend services, distributed systems, and infrastructure whe
 * Throughput vs resource utilization trade-offs
 
 
+
 ## Systems & Engineering Stack
 
-**Runtime**
+### Backend (Primary)
 
-* Node.js internals, event loop behavior
-* Async I/O and concurrency tuning
-* Worker threads and clustering
-* V8 profiling and heap analysis
+* Go services and concurrency model (goroutines, scheduling)
+* API design (REST, gRPC, WebSockets)
+* High-throughput and low-latency service design
+* Event-driven and async architectures
 
-**Networking**
 
-* HTTP connection lifecycle
+
+### Networking
+
+* HTTP lifecycle and connection management
 * Reverse proxy and load balancing
 * Service-to-service communication
-* Backpressure and retry strategies
+* Backpressure, retries, and timeouts
 
-**Data**
 
-* PostgreSQL query planning and indexing
-* Redis caching and eviction policies
-* Connection pooling and latency optimization
+
+### Data Systems
+
+* PostgreSQL query planning, indexing, and optimization
+* Redis caching strategies and eviction policies
+* Connection pooling and latency control
 * Consistency vs performance trade-offs
 
-**Infrastructure**
+
+
+### Infrastructure
 
 * Docker containerization
-* Linux-based deployments
-* Process lifecycle management
-* Resource constraints and scaling
+* Linux-based deployments and process lifecycle
+* Resource constraints (CPU, memory, file descriptors)
+* Scaling strategies and system limits
 
-**Observability**
+
+
+### Observability
 
 * Structured logging
-* Latency measurement
-* Memory leak detection
-* Production debugging
+* Metrics and latency analysis
+* Memory and performance profiling
+* Production debugging under load
+
+
+
+### AI Systems
+
+* LLM-based agents and tool calling
+* MCP-style integrations and workflow automation
+* AI systems embedded into backend services
+* Reliability and observability for AI pipelines
+
 
 
 ## What I Build
 
-* Distributed system simulators
-* Backend services under real load
+* Distributed systems under real load
+* Backend services with controlled concurrency
 * Multi-service architectures
 * Infrastructure-aware SaaS systems
 * Performance-sensitive APIs
-* Failure testing environments
+* Failure simulation and resilience testing environments
+
+
+
+## Current Interests
+
+* Distributed systems behavior under load
+* CPU cache awareness and memory locality
+* Kernel-level data flow (epoll, sockets, buffers)
+* Message queues and async pipelines
+* Failure injection and resilience engineering
+* AI systems integrated with backend infrastructure
+
 
 
 ## Portfolio
 
 [https://hamidslab.com](https://hamidslab.com)
 
-
-## Current Interests
-
-* Distributed systems behavior under load
-* CPU cache awareness in application design
-* Message queues and async pipelines
-* Service mesh and traffic routing
-* Failure injection and resilience testing
-* Systems for AI and surveillance infrastructure
 
 
 ## Contact
