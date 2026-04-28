@@ -6,7 +6,6 @@ I build software by understanding how it actually executes — CPU time, memory 
 
 I enjoy working on backend services, distributed systems, and infrastructure where performance, reliability, and observability matter. I prefer measuring real behavior over relying on abstractions.
 
----
 
 ## Focus Areas
 
@@ -19,7 +18,6 @@ I enjoy working on backend services, distributed systems, and infrastructure whe
 * Observability and production debugging
 * Throughput vs resource utilization trade-offs
 
----
 
 ## Systems & Engineering Stack
 
@@ -58,7 +56,6 @@ I enjoy working on backend services, distributed systems, and infrastructure whe
 * Memory leak detection
 * Production debugging
 
----
 
 ## What I Build
 
@@ -69,13 +66,11 @@ I enjoy working on backend services, distributed systems, and infrastructure whe
 * Performance-sensitive APIs
 * Failure testing environments
 
----
 
 ## Portfolio
 
 [https://hamidslab.com](https://hamidslab.com)
 
----
 
 ## Current Interests
 
@@ -86,7 +81,6 @@ I enjoy working on backend services, distributed systems, and infrastructure whe
 * Failure injection and resilience testing
 * Systems for AI and surveillance infrastructure
 
----
 
 ## Contact
 
