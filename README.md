@@ -6,7 +6,7 @@ I build systems by understanding how they actually execute — CPU scheduling, m
 
 My focus is not just application logic, but the full execution path:
 
-```text
+```js
 Request → Kernel → Runtime → Application → Data → Response
 ```
 
